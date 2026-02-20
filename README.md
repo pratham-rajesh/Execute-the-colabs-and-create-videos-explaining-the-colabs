@@ -1,6 +1,4 @@
-
-
-# Execute-the-colabs-and-create-videos-explaining-the-colabs
+# Deep Learning Fundamentals – Colab Executions & Video Explanations
 
 This repository contains executed Google Colabs (with outputs saved) and recorded YouTube explanations for each notebook.
 
@@ -8,106 +6,107 @@ This repository contains executed Google Colabs (with outputs saved) and recorde
 
 ## 1. Neural Network Playground (Website Explanation Only)
 - Website: https://dlmastery.github.io/neural-network-playground/
-- Video: YOUR_YOUTUBE_LINK
+- Video: https://youtube.com/watch?v=VIDEO_LINK_01
 
 ---
 
 ## 2. Introduction to NumPy
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_02
+- Video: https://youtube.com/watch?v=VIDEO_LINK_02
 
 ---
 
 ## 3. Intro to PyTorch Tensors
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_03
+- Video: https://youtube.com/watch?v=VIDEO_LINK_03
 
 ---
 
 ## 4. Intro to TensorFlow Tensors
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_04
+- Video: https://youtube.com/watch?v=VIDEO_LINK_04
 
 ---
 
 ## 5. Intro to JAX Tensors
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_05
+- Video: https://youtube.com/watch?v=VIDEO_LINK_05
 
 ---
 
 ## 6. Calculus for Deep Learning
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_06
+- Video: https://youtube.com/watch?v=VIDEO_LINK_06
 
 ---
 
 ## 7. Probability for Deep Learning – Part 1
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_07
+- Video: https://youtube.com/watch?v=VIDEO_LINK_07
 
 ---
 
 ## 8. Probability for Deep Learning – Part 2
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_08
+- Video: https://youtube.com/watch?v=VIDEO_LINK_08
 
 ---
 
 ## 9. Linear Algebra for Deep Learning
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_09
+- Video: https://youtube.com/watch?v=VIDEO_LINK_09
 
 ---
 
 ## 10. Neural Networks From Scratch
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_10
+- Video: https://youtube.com/watch?v=VIDEO_LINK_10
 
 ---
 
 ## 11. Why Neural Networks Work – Geometric Intuition
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_11
+- Video: https://youtube.com/watch?v=VIDEO_LINK_11
 
 ---
 
 ## 12. From NumPy to PyTorch: A Deep Learning Journey
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_12
+- Video: https://youtube.com/watch?v=VIDEO_LINK_12
 
 ---
 
 ## 13. Advanced PyTorch
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_13
+- Video: https://youtube.com/watch?v=VIDEO_LINK_13
 
 ---
 
 ## 14. From NumPy to TensorFlow & Keras 3
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_14
+- Video: https://youtube.com/watch?v=VIDEO_LINK_14
 
 ---
 
 ## 15. Advanced TensorFlow
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_15
+- Video: https://youtube.com/watch?v=VIDEO_LINK_15
 
 ---
 
 ## 16. Intro to JAX (Neural Networks)
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_16
+- Video: https://youtube.com/watch?v=VIDEO_LINK_16
 
 ---
 
 ## 17. Advanced JAX
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_17
+- Video: https://youtube.com/watch?v=VIDEO_LINK_17
 
 ---
 
-## 18. Introduction to NumPy (Duplicate Assignment Entry – If Required Separately)
-- Colab: YOUR_COLAB_LINK
-- Video: YOUR_YOUTUBE_LINK
+## 18. Additional NumPy / Tensor Review Colab (If Required Separately)
+- Colab: https://colab.research.google.com/drive/COLAB_LINK_18
+- Video: https://youtube.com/watch?v=VIDEO_LINK_18
+
