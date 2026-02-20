@@ -94,19 +94,19 @@ This repository contains executed Google Colabs (with outputs saved) and recorde
 
 ---
 
-## 16. Intro to JAX (Neural Networks)
+## 16. Intro to NumPy
 - Colab: https://colab.research.google.com/drive/COLAB_LINK_16
 - Video: https://youtube.com/watch?v=VIDEO_LINK_16
 
 ---
 
-## 17. Advanced JAX
+## 17. Intro to JAX (Neural Networks)
 - Colab: https://colab.research.google.com/drive/COLAB_LINK_17
 - Video: https://youtube.com/watch?v=VIDEO_LINK_17
 
 ---
 
-## 18. Additional NumPy / Tensor Review Colab (If Required Separately)
+## 18. Advanced JAX
 - Colab: https://colab.research.google.com/drive/COLAB_LINK_18
 - Video: https://youtube.com/watch?v=VIDEO_LINK_18
 
