@@ -1,6 +1,6 @@
-# Execute-the-colabs-and-create-videos-explaining-the-colabs
 
-# Deep Learning Fundamentals – Colab Executions & Video Explanations
+
+# Execute-the-colabs-and-create-videos-explaining-the-colabs
 
 This repository contains executed Google Colabs (with outputs saved) and recorded YouTube explanations for each notebook.
 
