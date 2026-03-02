@@ -18,13 +18,13 @@ This repository contains executed Google Colabs (with outputs saved) and recorde
 
 ## 3. Intro to PyTorch Tensors
 - Colab: https://colab.research.google.com/drive/1p0ZhtI3cPlPOJGU1_nZ_7jCrVQdEvXP1?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_03
+- Video: https://youtu.be/8SgB12yFFgA
 
 ---
 
 ## 4. Intro to TensorFlow Tensors
 - Colab: https://colab.research.google.com/drive/1V4axc_6h3g9ST3locFeFW5v2zJ-rhieo?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_04
+- Video: https://youtu.be/DS7KNWSrsDQ
 
 ---
 
