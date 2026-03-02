@@ -12,7 +12,7 @@ This repository contains executed Google Colabs (with outputs saved) and recorde
 
 ## 2. Introduction to NumPy
 - Colab: https://colab.research.google.com/drive/1wm6UamEyI_ywJNQIymDkoNmHnioePcmI?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_02
+- Video: https://youtu.be/LeUdv2okV_g
 
 ---
 
