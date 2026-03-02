@@ -6,7 +6,7 @@ This repository contains executed Google Colabs (with outputs saved) and recorde
 
 ## 1. Neural Network Playground (Website Explanation Only)
 - Website: https://dlmastery.github.io/neural-network-playground/
-- Video: https://youtube.com/watch?v=VIDEO_LINK_01
+- Video: https://youtu.be/Gv-a9p_YZ44
 
 ---
 
