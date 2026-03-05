@@ -30,19 +30,19 @@ This repository contains executed Google Colabs (with outputs saved) and recorde
 
 ## 5. Intro to JAX Tensors
 - Colab: https://colab.research.google.com/drive/1yapjXj5NjaOa9DTiCpUEXGqjC-p5uL2u?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_05
+- Video: https://youtu.be/YTTvafNPyqY
 
 ---
 
 ## 6. Calculus for Deep Learning
 - Colab: https://colab.research.google.com/drive/1w8wsKy1J-bz_QpmGBKmidsohs3ylWe_q?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_06
+- Video: https://youtu.be/wq4CkFsaXzc
 
 ---
 
 ## 7. Probability for Deep Learning – Part 1
 - Colab: https://colab.research.google.com/drive/1d-CB_DeWZd0Gn71e8EFSxCzkzC0_Z7kQ?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_07
+- Video: https://youtu.be/Vi5gGFfWfPs
 
 ---
 
