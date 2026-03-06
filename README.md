@@ -84,29 +84,29 @@ This repository contains executed Google Colabs (with outputs saved) and recorde
 
 ## 14. From NumPy to TensorFlow & Keras 3
 - Colab: https://colab.research.google.com/drive/1EzIwhhLgM-GMwJxnzbFcFOnXiGFw82k_?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_14
+- Video: https://youtu.be/d-xRH8h-vkw
 
 ---
 
 ## 15. Advanced TensorFlow
 - Colab: https://colab.research.google.com/drive/1vEnj0uHMrtSl0o_HrAgUjKu1fH_IQAo2?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_15
+- Video: https://youtu.be/j5CUPhIsM3E
 
 ---
 
 ## 16. Intro to NumPy
 - Colab: https://colab.research.google.com/drive/1wm6UamEyI_ywJNQIymDkoNmHnioePcmI?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_16
+- Video: https://youtu.be/LeUdv2okV_g
 
 ---
 
 ## 17. Intro to JAX (Neural Networks)
 - Colab: https://colab.research.google.com/drive/13U55af7fItBTRVMNsEAGIAzbLXvsglyO?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_17
+- Video: https://youtu.be/YTTvafNPyqY
 
 ---
 
 ## 18. Advanced JAX
 - Colab: https://colab.research.google.com/drive/1vRQgluhKEuRqXKxX71QC0_LN8sI7OMm-?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_18
+- Video: https://youtu.be/IhpKOlVZhpk
 
