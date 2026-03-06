@@ -48,37 +48,37 @@ This repository contains executed Google Colabs (with outputs saved) and recorde
 
 ## 8. Probability for Deep Learning – Part 2
 - Colab: https://colab.research.google.com/drive/1ZMzRyrddtEq-k1yKXzaEL5fEdV9vUMTH?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_08
+- Video: https://youtu.be/SXke5UV2C0o
 
 ---
 
 ## 9. Linear Algebra for Deep Learning
 - Colab: https://colab.research.google.com/drive/1PXpM-Sz3yMSiObYe0BOmC0uSoA0wE6H1?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_09
+- Video: https://youtu.be/UjNCGTi2AIg
 
 ---
 
 ## 10. Neural Networks From Scratch
 - Colab: https://colab.research.google.com/drive/1EHhLsa63bRqqCPRGINNAU9oC2aYVr5-4?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_10
+- Video: https://youtu.be/6tPcu6bjIpU
 
 ---
 
 ## 11. Why Neural Networks Work – Geometric Intuition
 - Colab: https://colab.research.google.com/drive/1cbitvAr7i09mDL4tl9QClYueaoFtd0tR?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_11
+- Video: https://youtu.be/NAWqQCpy7HM
 
 ---
 
 ## 12. From NumPy to PyTorch: A Deep Learning Journey
 - Colab: https://colab.research.google.com/drive/1dWVR_iI4Aga6adMRT5-da-W8dU9Ux2vP?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_12
+- Video: https://youtu.be/S8iY05oavog
 
 ---
 
 ## 13. Advanced PyTorch
 - Colab: https://colab.research.google.com/drive/1aJbBswYOHKfLj8XYvToL5ixHwvYwuy0q?usp=sharing
-- Video: https://youtube.com/watch?v=VIDEO_LINK_13
+- Video: https://youtu.be/oBJzzUz-AJs
 
 ---
 
